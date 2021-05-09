@@ -1,0 +1,9 @@
+
+För att exekvera koden, kör jar-filen ...  genom att skriva (i kommandotolken) "java -jar checkValid.jar", där jar-filen befinner sig. Denna innehåler det exekverbara programmet. 
+
+Om jar-filen inte vill exekveras kan koden kompileras och köras i kommandotolken. För att köra koden måste java vara installerat.
+1. Skriv "javac ValidityCheck.java" i kommandotolken för att kompilera koden. Detta måste ske i mappen där klassen ValidityCheck befinner sig (i src). 
+2. kör koden genom att skriva "java ValidityCheck" 
+
+I programmet kan du välja mellan personnummer, samhörighetsnummer och organisationsnummer. Välj genom att skriva in 1,2 eller 3.
+Skriv sedan in det valda numret för att se om numret är korrekt.
